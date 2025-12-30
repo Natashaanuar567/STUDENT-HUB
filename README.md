@@ -107,11 +107,10 @@ The application uses **simulated authentication** with session guarding to prote
 ## 🌐 Deployment
 
 * **Live Website (GitHub Pages):**
-  👉 *[Insert your live site link here]*
-  *(e.g., [https://username.github.io/projectname/](https://username.github.io/projectname/))*
+  👉 *https://natashaanuar567.github.io/STUDENT-HUB/*
 
 * **GitHub Repository:**
-  👉 *[Insert your repository link here]*
+  👉 *https://github.com/Natashaanuar567/STUDENT-HUB*
 
 ---
 
